@@ -13,8 +13,9 @@ function multiply(x, y) {
 function divide(x, y) {
   return x / y
 }
-var n = 673
+
 function inc(n) {
+  var n = 673
   return n++
 }
 
