@@ -15,8 +15,7 @@ function divide(x, y) {
 }
 
 function inc(n) {
-  var n = 673
-  return n++
+  return n += 1
 }
 
 function dec(n) {
